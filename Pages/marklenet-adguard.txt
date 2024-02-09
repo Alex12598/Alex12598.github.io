@@ -1,0 +1,6 @@
+! These are lists by Alex for Marklenet
+! Used for AdGuard
+!
+
+||marklenet.com^
+||tailscale.com^
