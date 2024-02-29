@@ -4,3 +4,4 @@
 
 ||marklenet.com^
 ||tailscale.com^
+||akidoo.top^
