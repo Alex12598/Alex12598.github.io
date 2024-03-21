@@ -5,3 +5,4 @@
 ||marklenet.com^
 ||tailscale.com^
 ||akidoo.top^
+||s0.2mdn.net^
